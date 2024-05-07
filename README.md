@@ -41,8 +41,8 @@ This project focuses on analyzing global happiness data sourced from the Gallup 
 
 ## Processed Tasks
 
-1. **Data Loading**: Loaded the datasets for analysis.
-2. **Data Quality Checks**: Conducted thorough quality checks to validate reliability, timeliness, consistency, relevance, uniqueness, and completeness.
+1. **Data Loading (Day1)**: Loaded the datasets for analysis.
+2. **Data Quality Checks (Day1)**: Conducted thorough quality checks to validate reliability, timeliness, consistency, relevance, uniqueness, and completeness.
 
 ## Setup Instructions
 

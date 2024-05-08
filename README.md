@@ -41,12 +41,13 @@ This project focuses on analyzing global happiness data sourced from the Gallup 
 
 ## Processed Tasks
 
-1. **Data Loading (Day1)**: Loaded the datasets for analysis.
-2. **Data Quality Checks (Day1)**: Conducted thorough quality checks to validate reliability, timeliness, consistency, relevance, uniqueness, and completeness.
+1. **Data Loading (Day 1-2)**: Loaded the datasets for analysis.
+2. **Data Quality Checks (Day 1-2)**: Conducted thorough quality checks to validate reliability, timeliness, consistency, relevance, uniqueness, and completeness.
+3. **Data Clean (Day 2)**: [THIS IS NEW]
 
 ## Setup Instructions
 
-1. Download the datasets from [Kaggle's World Happiness Report page](https://www.kaggle.com/datasets/unsdsn/world-happiness/discussion/144084).
+1. Download the datasets from [Kaggle's World Happiness Report page](https://www.kaggle.com/datasets/unsdsn/world-happiness/).
 2. Ensure Python 3.x and necessary libraries (pandas, numpy) are installed.
    ```bash
    pip install pandas numpy

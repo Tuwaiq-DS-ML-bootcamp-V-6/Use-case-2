@@ -44,6 +44,10 @@ This project focuses on analyzing global happiness data sourced from the Gallup 
 1. **Data Loading (Day 1-2)**: Loaded the datasets for analysis.
 2. **Data Quality Checks (Day 1-2)**: Conducted thorough quality checks to validate reliability, timeliness, consistency, relevance, uniqueness, and completeness. Checked accuracy.
 3. **Data Clean (Day 2)**: Checked the data. but nothing to clean
+4. **(Day 3)**:
+   - Cleaned some data
+   - dropped useless columns
+   - analysis using visuals
 
 ## Setup Instructions
 

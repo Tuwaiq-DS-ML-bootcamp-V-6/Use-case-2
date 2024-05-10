@@ -11,37 +11,38 @@ This project focuses on analyzing global happiness data sourced from the Gallup 
 #### Table of countries with highest overall happiness
 
 We will answer this question based on the insight i got in the analysis
-**Assumption:** Top happiness rankings are determined by the countries with the highest happiness scores in the datasets.
+
+- **Assumption:** Top happiness rankings are determined by the countries with the highest happiness scores in the datasets.
 
 | Country     | Frequency in Ranking Top 5 |
 | ----------- | -------------------------- |
-| Finland     | 5                          |
+| Finland     | 4                          |
 | Norway      | 5                          |
 | Denmark     | 5                          |
 | Iceland     | 5                          |
-| Switzerland | 5                          |
+| Switzerland | 4                          |
 | Netherlands | 4                          |
 | Canada      | 1                          |
 
-- 2015:
-  ![alt text](img/Six_Factors_Comparative_Metrics_by_Country_for_2015.png)
-  ![alt text](img/Distribution_of_Top_25_Happiest_Countries_by_Region_in_15.png)
+2015:
+![alt text](img/Six_Factors_Comparative_Metrics_by_Country_for_2015.png)
+![alt text](img/Distribution_of_Top_25_Happiest_Countries_by_Region_in_15.png)
 
-- 2016:
-  ![alt text](img/Six_Factors_Comparative_Metrics_by_Country_for_2016.png)
-  ![alt text](img/Distribution_of_Top_25_Happiest_Countries_by_Region_in_16.png)
+2016:
+![alt text](img/Six_Factors_Comparative_Metrics_by_Country_for_2016.png)
+![alt text](img/Distribution_of_Top_25_Happiest_Countries_by_Region_in_16.png)
 
-- 2017:
-  ![alt text](img/Six_Factors_Comparative_Metrics_by_Country_for_2017.png)
-  ![alt text](img/Distribution_of_Top_25_Happiest_Countries_by_Region_in_17.png)
+2017:
+![alt text](img/Six_Factors_Comparative_Metrics_by_Country_for_2017.png)
+![alt text](img/Distribution_of_Top_25_Happiest_Countries_by_Region_in_17.png)
 
-- 2018:
-  ![alt text](img/Six_Factors_Comparative_Metrics_by_Country_for_2018.png)
-  ![alt text](img/Distribution_of_Top_25_Happiest_Countries_by_Region_in_18.png)
+2018:
+![alt text](img/Six_Factors_Comparative_Metrics_by_Country_for_2018.png)
+![alt text](img/Distribution_of_Top_25_Happiest_Countries_by_Region_in_18.png)
 
-- 2019:
-  ![alt text](img/Six_Factors_Comparative_Metrics_by_Country_for_2019.png)
-  ![alt text](img/Distribution_of_Top_25_Happiest_Countries_by_Region_in_19.png)
+2019:
+![alt text](img/Six_Factors_Comparative_Metrics_by_Country_for_2019.png)
+![alt text](img/Distribution_of_Top_25_Happiest_Countries_by_Region_in_19.png)
 
 ### 2. Which factors contribute most significantly to happiness in the top-ranked countries
 
